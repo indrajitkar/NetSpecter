@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/netspecter_logo.png" alt="NetSpecter Logo" width="800"/>
+  <img src="images/netspecter_logo.png" alt="NetSpecter Logo" width="400"/>
 </p>
 
 <h1 align="center">NetSpecter</h1>
